@@ -16,3 +16,6 @@ Thumbs.db
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Source data (submitted to the journal as a supplementary file)
+Manual_Extraction_Paper2_Final Outcome_VS code.csv

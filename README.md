@@ -9,8 +9,11 @@ their results to `analysis_scripts/outputs/`.
 
 ## Data
 
-- `Manual_Extraction_Paper2_Final Outcome_VS code.csv` — manually extracted
-  GAQI scoring data (N = 38 EIA reports), header on row 3 of the CSV.
+Scripts expect `Manual_Extraction_Paper2_Final Outcome_VS code.csv` (manually
+extracted GAQI scoring data, N = 38 EIA reports, header on row 3) in this
+folder. The file is **not included in this repository** — it is submitted to
+the journal as a supplementary file. Place a copy here before running any
+script.
 
 ## Requirements
 
