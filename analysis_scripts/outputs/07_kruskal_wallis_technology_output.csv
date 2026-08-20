@@ -1,0 +1,2 @@
+Test,Groups,N_total,df,H_statistic,p_value,p_value_display,Significant_0.05,Conclusion,Paper_Section,Reported_In_Paper,Match_Paper,Sensitivity_H_merged,Sensitivity_p_merged,Sensitivity_note
+Kruskal-Wallis,Coal / Gas-LNG / HFO / Solar-Wind (n>=3),35,3,3.937,0.2684,= 0.2684,False,No significant difference across technology families,Section 3.8,"H = 3.94, df = 3, p = 0.27",True,8.107,0.0439,"HFO+DualFuel merged (n=5): H=8.11, p=0.044 — marginal significance; exclusion of n<3 groups is pre-specified"

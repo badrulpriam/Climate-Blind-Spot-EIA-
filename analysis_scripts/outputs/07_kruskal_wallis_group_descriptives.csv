@@ -1,0 +1,8 @@
+Technology_Family,n,Mean,SD,Median,Min,Max,Included_in_KW
+Coal,10,54.5,19.92,65.0,21.0,71.0,True
+Gas/LNG,15,54.6,17.3,60.0,14.0,81.0,True
+HFO,3,29.67,25.4,15.0,15.0,59.0,True
+Solar/Wind,7,44.29,26.12,57.0,17.0,72.0,True
+Dual Fuel(Gas/HSD),1,12.0,,12.0,12.0,12.0,False
+Waste to Energy,1,46.0,,46.0,46.0,46.0,False
+Gas/HSD,1,15.0,,15.0,15.0,15.0,False

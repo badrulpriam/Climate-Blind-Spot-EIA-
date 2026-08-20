@@ -1,0 +1,8 @@
+Test,Variable_X,Variable_Y,Purpose,N,Spearman_rho,p_value,p_value_display,Significant_0.05,Expected_rho,Match_rho,Paper_Section,Reported_In_Paper
+Spearman correlation,D1_Presence (0-10),GAQI_Total (0-100),Dimension-composite relationship,38,0.845,0.0,< 0.001,True,0.845,True,Section 3.2,"rho = 0.845, p < 0.001"
+Spearman correlation,D2_Scopes (0-20),GAQI_Total (0-100),Dimension-composite relationship,38,0.868,0.0,< 0.001,True,0.868,True,Section 3.2,"rho = 0.868, p < 0.001"
+Spearman correlation,D3_Methodology (0-20),GAQI_Total (0-100),Dimension-composite relationship,38,0.861,0.0,< 0.001,True,0.861,True,Section 3.2,"rho = 0.861, p < 0.001"
+Spearman correlation,D4_Lifecycle (0-15),GAQI_Total (0-100),Dimension-composite relationship,38,0.691,0.0,< 0.001,True,0.691,True,Section 3.2,"rho = 0.691, p < 0.001"
+Spearman correlation,D5_Quantification (0-20),GAQI_Total (0-100),Dimension-composite relationship,38,0.829,0.0,< 0.001,True,0.829,True,Section 3.2,"rho = 0.829, p < 0.001"
+Spearman correlation,D6_Policy (0-15),GAQI_Total (0-100),Dimension-composite relationship,38,0.456,0.004,= 0.0040,True,0.456,True,Section 3.2,"rho = 0.456, p = 0.004"
+Spearman correlation,Total_Mentions,GAQI_Total (0-100),Convergent validity check,38,0.839,0.0,< 0.001,True,0.84,True,Section 3.2,"rho = 0.840, p < 0.001"

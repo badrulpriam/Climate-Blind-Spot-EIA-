@@ -1,0 +1,72 @@
+Block,Statistic,Value,n,Pct_of_N,Paper_Section,Reported_In_Paper
+A — GAQI Composite,Mean,48.32,38,,Section 3.3,mean 48.3 (SD 21.9); median 55.5; IQR 24.8–67.5; range 12–81
+A — GAQI Composite,SD,21.88,38,,Section 3.3,mean 48.3 (SD 21.9); median 55.5; IQR 24.8–67.5; range 12–81
+A — GAQI Composite,Median,55.5,38,,Section 3.3,mean 48.3 (SD 21.9); median 55.5; IQR 24.8–67.5; range 12–81
+A — GAQI Composite,Q1 (25th percentile),24.75,38,,Section 3.3,mean 48.3 (SD 21.9); median 55.5; IQR 24.8–67.5; range 12–81
+A — GAQI Composite,Q3 (75th percentile),67.5,38,,Section 3.3,mean 48.3 (SD 21.9); median 55.5; IQR 24.8–67.5; range 12–81
+A — GAQI Composite,IQR,42.75,38,,Section 3.3,mean 48.3 (SD 21.9); median 55.5; IQR 24.8–67.5; range 12–81
+A — GAQI Composite,Min,12,38,,Section 3.3,mean 48.3 (SD 21.9); median 55.5; IQR 24.8–67.5; range 12–81
+A — GAQI Composite,Max,81,38,,Section 3.3,mean 48.3 (SD 21.9); median 55.5; IQR 24.8–67.5; range 12–81
+A — GAQI Composite,N,38,38,,Section 3.3,mean 48.3 (SD 21.9); median 55.5; IQR 24.8–67.5; range 12–81
+B — GAQI Classification,Excellent,1,38,2.6,Section 3.3,Excellent: n and %
+B — GAQI Classification,Good,15,38,39.5,Section 3.3,Good: n and %
+B — GAQI Classification,Satisfactory,11,38,28.9,Section 3.3,Satisfactory: n and %
+B — GAQI Classification,Poor,3,38,7.9,Section 3.3,Poor: n and %
+B — GAQI Classification,Inadequate,8,38,21.1,Section 3.3,Inadequate: n and %
+B — GAQI Classification,Good + Excellent,16,38,42.1,Section 3.3,Good + Excellent: combined
+B — GAQI Classification,Inadequate + Poor,11,38,28.9,Section 3.3,Inadequate + Poor: combined
+C — Dimension Descriptives,D1_Presence,mean=7.00 SD=3.28 median=8.0 min=0 max=10 pct_of_max=70.0%,38,70.0,Section 3.4,D1_Presence: mean and % of max
+C — Dimension Descriptives,D2_Scopes,mean=7.95 SD=4.80 median=8.0 min=0 max=14 pct_of_max=39.7%,38,39.7,Section 3.4,D2_Scopes: mean and % of max
+C — Dimension Descriptives,D3_Methodology,mean=10.42 SD=8.08 median=12.0 min=0 max=20 pct_of_max=52.1%,38,52.1,Section 3.4,D3_Methodology: mean and % of max
+C — Dimension Descriptives,D4_Lifecycle,mean=8.18 SD=2.67 median=8.0 min=3 max=13 pct_of_max=54.6%,38,54.6,Section 3.4,D4_Lifecycle: mean and % of max
+C — Dimension Descriptives,D5_Quantification,mean=7.63 SD=5.29 median=10.0 min=0 max=20 pct_of_max=38.2%,38,38.2,Section 3.4,D5_Quantification: mean and % of max
+C — Dimension Descriptives,D6_Policy,mean=7.13 SD=2.64 median=6.0 min=6 max=15 pct_of_max=47.5%,38,47.5,Section 3.4,D6_Policy: mean and % of max
+D — Scope Coverage,Scope 1 — Quantified,23,38,60.5,Section 3.5,Scope 1 Quantified count and %
+D — Scope Coverage,Scope 1 — Qualitative,7,38,18.4,Section 3.5,Scope 1 Qualitative count and %
+D — Scope Coverage,Scope 1 — Not Stated,7,38,18.4,Section 3.5,Scope 1 Not Stated count and %
+D — Scope Coverage,Scope 1 — Zero,1,38,2.6,Section 3.5,Scope 1 Zero count and %
+D — Scope Coverage,Scope 2 — Quantified,2,38,5.3,Section 3.5,Scope 2 Quantified count and %
+D — Scope Coverage,Scope 2 — Qualitative,7,38,18.4,Section 3.5,Scope 2 Qualitative count and %
+D — Scope Coverage,Scope 2 — Not Stated,29,38,76.3,Section 3.5,Scope 2 Not Stated count and %
+D — Scope Coverage,Scope 2 — Zero,0,38,0.0,Section 3.5,Scope 2 Zero count and %
+D — Scope Coverage,Scope 3 — Quantified,2,38,5.3,Section 3.5,Scope 3 Quantified count and %
+D — Scope Coverage,Scope 3 — Qualitative,15,38,39.5,Section 3.5,Scope 3 Qualitative count and %
+D — Scope Coverage,Scope 3 — Not Stated,21,38,55.3,Section 3.5,Scope 3 Not Stated count and %
+D — Scope Coverage,Scope 3 — Zero,0,38,0.0,Section 3.5,Scope 3 Zero count and %
+E — Lifecycle Coverage,Construction — Quantified,3,38,7.9,Section 3.5,Construction Quantified count and %
+E — Lifecycle Coverage,Construction — Qualitative,28,38,73.7,Section 3.5,Construction Qualitative count and %
+E — Lifecycle Coverage,Construction — Not Stated,7,38,18.4,Section 3.5,Construction Not Stated count and %
+E — Lifecycle Coverage,Operation — Quantified,28,38,73.7,Section 3.5,Operation Quantified count and %
+E — Lifecycle Coverage,Operation — Qualitative,10,38,26.3,Section 3.5,Operation Qualitative count and %
+E — Lifecycle Coverage,Operation — Not Stated,0,38,0.0,Section 3.5,Operation Not Stated count and %
+E — Lifecycle Coverage,Decommission — Quantified,0,38,0.0,Section 3.5,Decommission Quantified count and %
+E — Lifecycle Coverage,Decommission — Qualitative,14,38,36.8,Section 3.5,Decommission Qualitative count and %
+E — Lifecycle Coverage,Decommission — Not Stated,24,38,63.2,Section 3.5,Decommission Not Stated count and %
+E — Lifecycle Coverage,Of 28 quantifying Operation — also quantify Construction,3,28,,Section 3.5,3 of 28
+E — Lifecycle Coverage,Of 28 quantifying Operation — also quantify Decommission,0,28,,Section 3.5,0 of 28
+F — Reporting Completeness,GHG mentioned anywhere,37,38,97.4,Sections 3.6 / 3.7,GHG mentioned anywhere: n and %
+F — Reporting Completeness,Dedicated GHG chapter,14,38,36.8,Sections 3.6 / 3.7,Dedicated GHG chapter: n and %
+F — Reporting Completeness,GHG-specific sub-sections,36,38,94.7,Sections 3.6 / 3.7,GHG-specific sub-sections: n and %
+F — Reporting Completeness,Any GHG quantified,28,38,73.7,Sections 3.6 / 3.7,Any GHG quantified: n and %
+F — Reporting Completeness,Annual emissions stated,26,38,68.4,Sections 3.6 / 3.7,Annual emissions stated: n and %
+F — Reporting Completeness,Lifetime emissions stated,2,38,5.3,Sections 3.6 / 3.7,Lifetime emissions stated: n and %
+F — Reporting Completeness,Gas-species breakdown provided,11,38,28.9,Sections 3.6 / 3.7,Gas-species breakdown provided: n and %
+F — Reporting Completeness,Protocol / tool named,25,38,65.8,Sections 3.6 / 3.7,Protocol / tool named: n and %
+F — Reporting Completeness,Emission factors provided,18,38,47.4,Sections 3.6 / 3.7,Emission factors provided: n and %
+F — Reporting Completeness,Activity data disclosed,26,38,68.4,Sections 3.6 / 3.7,Activity data disclosed: n and %
+F — Reporting Completeness,National policy named,38,38,100.0,Sections 3.6 / 3.7,National policy named: n and %
+F — Reporting Completeness,NDC mentioned,5,38,13.2,Sections 3.6 / 3.7,NDC mentioned: n and %
+F — Reporting Completeness,NDC contribution quantified,3,38,7.9,Sections 3.6 / 3.7,NDC contribution quantified: n and %
+F — Reporting Completeness,CO2-equivalent units used (of 26 stating annual figure),8,26,30.8,Section 3.6,8 of 26 (30.8%)
+F — Reporting Completeness,Reports with internal contradiction flagged,12,38,31.6,Section 3.6,12 (31.6%)
+F — Reporting Completeness,Reports invoking CDM,15,38,39.5,Section 3.7,15 (39.5%)
+G — Corpus Composition,Technology: Gas/LNG,15,38,39.5,Section 3.1,Table 1
+G — Corpus Composition,Technology: Coal,10,38,26.3,Section 3.1,Table 1
+G — Corpus Composition,Technology: Solar,6,38,15.8,Section 3.1,Table 1
+G — Corpus Composition,Technology: HFO,3,38,7.9,Section 3.1,Table 1
+G — Corpus Composition,Technology: Dual Fuel(Gas/HSD),1,38,2.6,Section 3.1,Table 1
+G — Corpus Composition,Technology: Waste to Energy,1,38,2.6,Section 3.1,Table 1
+G — Corpus Composition,Technology: Gas/HSD,1,38,2.6,Section 3.1,Table 1
+G — Corpus Composition,Technology: Solar & Wind,1,38,2.6,Section 3.1,Table 1
+G — Corpus Composition,Pre-Paris (<=2015),14,37,37.8,Section 3.1,14 (37.8%)
+G — Corpus Composition,Post-Paris (>=2016),23,37,62.2,Section 3.1,23 (62.2%)

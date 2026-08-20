@@ -1,0 +1,12 @@
+Paper_Section,Check,Expected,Observed,Pass,Note
+Methods — data integrity,Total reports (N),38,38,PASS,Row count after dropping fully empty rows
+Methods — data integrity,Total columns,50,50,PASS,Column count as per instrument design
+Methods — data integrity,Missing values — D1_Presence (0-10),0,0,PASS,No dimension score should be missing
+Methods — data integrity,Missing values — D2_Scopes (0-20),0,0,PASS,No dimension score should be missing
+Methods — data integrity,Missing values — D3_Methodology (0-20),0,0,PASS,No dimension score should be missing
+Methods — data integrity,Missing values — D4_Lifecycle (0-15),0,0,PASS,No dimension score should be missing
+Methods — data integrity,Missing values — D5_Quantification (0-20),0,0,PASS,No dimension score should be missing
+Methods — data integrity,Missing values — D6_Policy (0-15),0,0,PASS,No dimension score should be missing
+Methods — data integrity,Missing values — GAQI_Total,0,0,PASS,No composite score should be missing
+Methods — data integrity,Arithmetic integrity (D1+D2+D3+D4+D5+D6 == GAQI_Total),0,0,PASS,All 38 rows must sum exactly to GAQI_Total
+Methods — data integrity,GAQI_Class — unexpected categories,0,0,PASS,Unexpected values if any: None

@@ -1,0 +1,2 @@
+Test,Variable,N,Statistic_Label,Statistic_Value,p_value,p_value_display,Significant_0.05,Skewness,Excess_Kurtosis,Conclusion,Paper_Section,Reported_In_Paper,Match_Paper
+Shapiro-Wilk,GAQI_Total (0-100),38,W,0.8798,0.0007,< 0.001,True,-0.47,-1.245,Non-normal distribution confirmed — use non-parametric tests,Methods / Section 3.2,"W = 0.880, p < 0.001",True

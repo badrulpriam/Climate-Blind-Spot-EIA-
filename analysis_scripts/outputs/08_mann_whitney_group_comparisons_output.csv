@@ -1,0 +1,4 @@
+Comparison,Group_1,Group_2,n_Group1,n_Group2,Median_Group1,Median_Group2,U_statistic,p_value,p_value_display,Rank_biserial_r,Effect_size_interp,Significant_0.05,Conclusion,Paper_Section,Reported_In_Paper,Match_U
+Fossil vs Renewable,Fossil,Renewable,30,7,56.5,57.0,109.0,0.8919,= 0.8919,-0.038,Negligible,False,No significant difference,Section 3.8,"U = 109, p = 0.89, rank-biserial r = -0.04",True
+DFI named vs not named,DFI_named,No_DFI,25,13,54.0,59.0,156.5,0.8655,= 0.8655,0.037,Negligible,False,No significant difference,Section 3.8,"U = 156.5, p = 0.87",True
+Pre-Paris vs Post-Paris,Pre_Paris_<=2015,Post_Paris_>=2016,14,23,45.0,59.0,130.5,0.3471,= 0.3471,0.189,Small,False,No significant difference,Section 3.8,"U = 130.5, p = 0.35",True

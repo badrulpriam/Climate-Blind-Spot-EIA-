@@ -1,0 +1,2 @@
+Metric,Value,Mean_inter_item_r,N_pairs,N_reports,k_dimensions,Interpretation,Paper_Section,Reported_In_Paper,Match_Alpha,Match_MeanR
+Standardised Cronbach's alpha,0.867,0.52,15,38,6,Good,Section 3.2,standardised alpha = 0.867; mean inter-item r = 0.520,True,True
